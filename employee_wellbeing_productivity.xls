@@ -1,0 +1,11 @@
+work_hours_per_day,productivity_score,gender,remote_work,sleep_hours,exercise_frequency,diet_quality
+8,78,Male,Yes,7,3,Good
+6,82,Female,No,8,4,Good
+7,65,Female,Yes,6,2,Average
+9,55,Male,No,5,1,Poor
+5,88,Female,Yes,8,3,Good
+8,70,Male,No,6,2,Average
+7,75,Female,Yes,7,3,Good
+6,60,Male,No,5,2,Poor
+9,50,Female,Yes,6,1,Poor
+5,92,Male,Yes,8,4,Good
